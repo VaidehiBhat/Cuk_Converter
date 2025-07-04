@@ -38,4 +38,4 @@ The following steps were carried out:
 ![Hardware Setup](https://github.com/VaidehiBhat/Cuk_Converter/blob/main/hardware_setup.jpg)
 
 **PCB Schematic:**  
-![PCB Schematic](./images/pcb_schematic.jpg)
+[![Watch the video](https://github.com/VaidehiBhat/Cuk_Converter/blob/main/pcb_schematic.png)](https://drive.google.com/file/d/1lXHLLwoY_s0d9PHwrA5-D8VY1oWmq8Xk/view?usp=sharing)
