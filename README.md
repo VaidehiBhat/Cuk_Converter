@@ -35,7 +35,7 @@ The following steps were carried out:
 ## Images
 
 **Hardware Setup:**  
-![Hardware Setup](./images/hardware_setup.jpg)
+![Hardware Setup](https://github.com/VaidehiBhat/Cuk_Converter/blob/main/hardware_setup.jpg)
 
 **PCB Schematic:**  
 ![PCB Schematic](./images/pcb_schematic.jpg)
